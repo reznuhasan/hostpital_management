@@ -1,0 +1,36 @@
+.doctorSearch{
+    position: relative;
+}
+.searchBox{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 1px solid #DED8EA;
+    border-left: none;
+}
+.department{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0;
+}
+h2{
+    font-size: 18px;
+    font-weight: 600;
+    color:  #826AAC;
+}
+.department select,input{
+    width: 80%;
+    padding: 10px 0;
+    font-size: 15px;
+    color: #826AAC;
+    margin: 10px 0;
+}
+.department button{
+    width: 40%;
+    padding: 10px 0;
+    border:none;
+    background-color: #826AAC;
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+}

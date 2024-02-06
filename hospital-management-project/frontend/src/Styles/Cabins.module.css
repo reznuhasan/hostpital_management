@@ -1,0 +1,19 @@
+.cabins{
+    display: flex;
+    width: 100%;
+}
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 70px 0;
+    height: 320px;
+}
+.sidebar a{
+    text-decoration: none;
+    padding: 10px 40px;
+    font-size: 18px;
+    color: brown;
+}

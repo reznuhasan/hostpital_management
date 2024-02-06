@@ -1,0 +1,53 @@
+.register{
+    width: 100%;
+}
+.formContainer{
+    width: 700px;
+    margin: 30px auto;
+}
+.title{
+    font-size: 32px;
+    font-weight: 600;
+    color: rgb(36, 41, 46);
+    text-align: center;
+}
+.inputDiv{
+    position: relative;
+}
+.inputDiv input{
+    width: 700px;
+}
+.impLabel{
+    display: flex;
+    align-items: center;
+}
+.impLabel label{
+    font-size: 17px;
+    color: rgb(15, 35, 77);
+}
+.star{
+    color: #FF4500;
+    font-size: 20px;
+}
+.submitBtn{
+    background-color: #826AAC;
+    width: 700px;
+    padding: 10px;
+    font-size: 17px;
+    font-weight: 600;
+    border: none;
+    color: white;
+    margin-top: 20px;
+}
+.para{
+    margin-top: 10px;
+    font-size: 17px;
+    font-style: italic;
+}
+
+.checkPassword{
+    position: absolute;
+    right: 30px;
+    top:50%;
+    cursor: pointer;
+}

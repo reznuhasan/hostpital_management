@@ -1,0 +1,47 @@
+.DoctorProfile{
+    width: 90%;
+}
+.doctorProfileBox{
+    display: flex;
+    width: 800px;
+}
+.doctorProfileBox img{
+    margin: 30px;
+}
+.doctorDetails{
+    margin: 45px 0;
+}
+.doctorDetails h1{
+    font-size: 15px;
+    color: #24292E;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.doctorDetails h2{
+    font-size: 14px;
+    color: #24292E;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.doctorContent{
+    margin-left: 80px;
+}
+
+.doctorButton button{
+    font-size: 16px;  
+    font-weight: 500; 
+    padding: 10px 20px;
+    border: none;
+    background-color: #826AAC;
+    color: white;
+}
+.profileContent{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.profileContent p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    color:rgb(33, 37, 41);
+}

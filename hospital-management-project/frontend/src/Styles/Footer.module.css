@@ -1,0 +1,99 @@
+.footer{
+    background-color: #152644;
+    padding: 50px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.allDetails{
+    display: flex;
+}
+.logo{
+    position: relative;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    background-color: #72BEE0;
+    height: 100px;
+    border-radius: 10px;
+}
+.logo img{
+    width: 100px;
+}
+.logo h1{
+    position: absolute;
+    top:60%;
+    left: 20%;
+    font-family:'Simonetta', cursive;
+    color: #001D4D;
+}
+.footerDetails{
+    width: 500px;
+   
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+}
+.menu a{
+    text-decoration: none;
+    padding: 0 20px;
+    color:white;
+    font-size: 19px;
+}
+.contact{
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+    margin-left: 250px;
+}
+.inqury{
+    color:white;
+    font-size: 15px; 
+    border-right: 1px solid white;
+    width: 100px;
+}
+.hotline{
+    color:white;
+    font-size: 17px; 
+    display: flex;
+    border: 1px solid white;
+    width: 100px;
+    padding: 8px;
+}
+.icon{
+    border-right: 1px solid white;
+    padding: 0 5px;
+}
+.hotline p{
+    padding-left: 5px;
+}
+.line{
+    width: 1px;
+    height: 90px;
+    background-color: white;
+    margin: 0 50px;
+}
+.socialMedia{
+    display: flex;
+    align-items: center;
+    height: 90px;
+}
+.socialMedia .socialBox{
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+}
+.socialMedia .socialBox .socialIcon{
+    font-size: 24px;
+} 

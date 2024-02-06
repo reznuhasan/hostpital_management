@@ -1,0 +1,17 @@
+.department{
+    width: 80%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.department form{
+    display: flex;
+}
+.departmentInput{
+    width: 700px;
+}
+.departmentBtn{
+    padding: 10px 16px;
+}

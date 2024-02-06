@@ -1,0 +1,38 @@
+.dashboardSidebar{
+    width:20%;
+    min-height: 100vh;
+    height: auto;
+    background-color:#283747;
+}
+a{
+    text-decoration:none;
+}
+.dashboardNav{
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    border-bottom: 1px solid #ccc;
+}
+.dashboardNav a{
+    color:white;
+    padding-left:20px;
+}
+.dashboardDropdownMenu{
+    flex-direction:column;
+    padding-left: 50px;
+}
+.dashboardDropdownMenuNav{
+    margin-top:10px;
+}
+.dashboardDropdownCircle{
+    width:10px;
+    height: 10px;
+    border:2px solid hsl(0, 0%, 80%);
+    border-radius:50%;
+    margin-bottom: -13px;
+}
+.dashboardDropdownMenu a{
+    font-size:14px;
+    color: aqua;
+}

@@ -1,0 +1,32 @@
+.appointment{
+    width: 100%;
+}
+.gender{
+    display: flex;
+    align-items: center;
+    width: 300px;
+}
+.gender input[type="radio"]{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+.selectInput{
+    width: 700px;
+    padding:12px 0;
+    padding-right: 20px;
+    text-transform: capitalize;
+} 
+option{
+    text-transform: capitalize;
+}
+.datePart{
+    display: flex;
+    width: 700px;
+}
+.datePart .dateInput{
+    width: 150px;
+    padding: 12px 0;
+    margin: 0 5px;
+    font-size: 17px;
+}

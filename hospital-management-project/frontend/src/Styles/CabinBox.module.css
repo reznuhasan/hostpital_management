@@ -1,0 +1,22 @@
+.cabinbox{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1000px;
+    padding: 20px 30px;
+}
+.bookBtn{
+    padding: 6px 30px;
+    background-color: #BC291C;
+    border: none;
+    color: white;
+    margin: 10px;
+}
+.SeeMore{
+    padding: 6px 30px;
+    background-color: #39985C;
+    border: none;
+    color: white;
+    margin: 10px;
+}

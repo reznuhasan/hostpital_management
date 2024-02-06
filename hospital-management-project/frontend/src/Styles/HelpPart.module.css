@@ -1,0 +1,37 @@
+.HelpPart{
+    padding-right: 15px;
+}
+.HelpPart a{
+    text-decoration: none;
+}
+.title{
+    margin-top: 70px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    color: rgb(130, 106, 172)
+}
+.menu div{
+    color:black;
+    position: relative;
+    width: 360px;
+    border:3px solid rgb(130, 106, 172);
+    padding:15px 0;
+    margin: 20px 0;    
+}
+.menu h1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color:  rgb(55, 65, 105);
+    padding-left: 15px;
+}
+.fontIcon{
+    position: absolute;
+    width: 40px;
+    font-size: 20px;
+    font-weight: 400;
+    top:30%;
+    right: 10px;
+    color:lightgreen;
+}
